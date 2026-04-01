@@ -70,7 +70,7 @@ class FaceApp(ctk.CTk):
         super().__init__()
 
         # --- WINDOW CONFIGURATION ---
-        self.title("Made with ❤️ by OM")
+        self.title("Made with ❤️ by HARSH")
         self.geometry("1450x880")
         self.configure(fg_color=BG_MAIN)
 
